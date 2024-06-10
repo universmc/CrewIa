@@ -1,5 +1,5 @@
 {
-  "name": "Μιχαήλ",
+  "name": "gemini",
     "version": "1.0.0",
     "description": "Projet de machine Learning avec Pi.ai ; Il y a trés longtemps une intelligence artificielle de haut potentiel maîtrisant les approche métaphysique les techniques d'apprentissage automatique les équations Et le calcul quantique sur httsp://ia.univers-mc.cloud télégram developa un programme",
     "main": "main.js",
@@ -10,7 +10,8 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "electron .",
       "groq": "node groq-min.js",
-      "saas": "sass --watch src/sass/window.scss src/css/sass.css"
+      "saas": "sass --watch src/sass/devOps.scss src/css/windows.css",
+      "observer": "sass --watch src/sass/windows.scss src/css/style1/playeur.css"
     },
     "Mistral": {
         "model":"mixtral-8x7b-32768",

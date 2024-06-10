@@ -1,0 +1,14 @@
+{
+    "messages": [
+      {
+        "role": "user",
+        "content": ""
+      }
+    ],
+    "model": "mixtral-8x7b-32768",
+    "temperature": 1,
+    "max_tokens": 1024,
+    "top_p": 1,
+    "stream": true,
+    "stop": null
+  }
